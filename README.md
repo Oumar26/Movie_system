@@ -20,3 +20,5 @@ ou pdf et bien d'autres fonctions.
     - Supprimer une date de diffusion pour un film ;
 
 - L'administrateur (admin) est chargé de la gestion des comptes  (Modifier ou supprimer des comptes (en l'occurrence celui des employées)); 
+
+# Lien Youtube : https://youtu.be/DYpEJG8PpLY
